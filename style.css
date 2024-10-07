@@ -1,0 +1,12 @@
+#CountriesContainer, #PokContainer{
+    display: flex;
+    flex-wrap: wrap;
+}
+.country,.Pok{
+    border: 1px solid ;
+    margin: 10px;
+    padding: 5px;
+}
+.cName{
+   font-size: small;
+}
